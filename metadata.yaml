@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41385#Histoire-de-la-Guerre-de-Trente-Ans
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2012-11-17'
 gutenberg_type: Text
