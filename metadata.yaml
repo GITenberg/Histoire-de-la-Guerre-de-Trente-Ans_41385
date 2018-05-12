@@ -1,0 +1,43 @@
+_repo: Histoire-de-la-Guerre-de-Trente-Ans_41385
+_version: 0.1.0
+alternative_title: Geschichte des dreissigjährigen kriegs. French
+contributor:
+  commentator:
+    agent_name: Schmidt, Henri
+    gutenberg_agent_id: '41152'
+    url: http://www.gutenberg.org/2009/agents/41152
+  translator:
+    agent_name: Regnier, Adolphe
+    birthdate: 1804
+    deathdate: 1884
+    gutenberg_agent_id: '41153'
+    url: http://www.gutenberg.org/2009/agents/41153
+covers:
+- cover_type: archival
+  image_path: 41385-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2012-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41385'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thirty Years'' War, 1618-1648'
+- !lcc 'D'
+title: Histoire de la Guerre de Trente Ans
+url: http://www.gutenberg.org/ebooks/41385
